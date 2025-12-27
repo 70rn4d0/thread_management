@@ -5,9 +5,6 @@
 #include <unistd.h>
 #include <chrono>
 #include <vector>
-// std::ostream &operator<<(std::ostream &os, const thread obj){
-
-// }
 
 void func(){
     std::cout << "\nRUNNING BY THREAD" << "[ " 
